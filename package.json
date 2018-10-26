@@ -1,0 +1,19 @@
+{
+  "name": "real-time-cdp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattvaughan/RealTimeCdp.git"
+  },
+  "author": "Matthew Vaughan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/mattvaughan/RealTimeCdp/issues"
+  },
+  "homepage": "https://github.com/mattvaughan/RealTimeCdp#readme"
+}
