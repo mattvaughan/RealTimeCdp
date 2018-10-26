@@ -2,8 +2,9 @@
   "name": "real-time-cdp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/mattvaughan/RealTimeCdp/issues"
   },
-  "homepage": "https://github.com/mattvaughan/RealTimeCdp#readme"
+  "homepage": "https://github.com/mattvaughan/RealTimeCdp#readme",
+  "devDependencies": {
+    "electron": "^3.0.6"
+  }
 }
